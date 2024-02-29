@@ -12,3 +12,4 @@
 
 1. This script assumes that you can load youtube homepage in less than 2 seconds. If this isn't the case then go to remove-feed.js, and change 2000 to a higher value.
 2. It may also be useful to go back to chrome://extensions and view the error messages (if there are any), and you can also pin this extension, or remove it at any time.
+3. You could also reduce the seconds after which the script runs using step 1 (if your pc and internet loads things very fast)
